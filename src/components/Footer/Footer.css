@@ -1,0 +1,7 @@
+.footer {
+    margin: 0 auto;
+    padding: 10px;
+}
+#footer-nav, #social-media, #contact-info{
+    font-size: 25px;
+}
